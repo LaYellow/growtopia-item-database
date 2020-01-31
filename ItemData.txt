@@ -30,3 +30,50 @@
 - Rarity: 84
 - Splice: Blue Block Seed + High Tech Block Seed
 - This item has special properties you can adjust with the Wrench.
+
+6. Big Lock
+- Description: Lock 48 tiles around itself. A lock makes it so only you (and designated friends) can edit an area.
+- Chi: Water
+- Rarity: 999
+- This item never drops any seeds.
+- This item can't be destroyed - smashing iy will return it to your backpack if you have room!
+- This item has special properties you can adjust with the Wrench.
+
+7. World Lock
+- Description: Looks an entire world. If you have 100 World Locks, you can tap them in your inventory to combine them into a Diamond Lock. It does the same thing, but it's shinier. A lock makes it so only you (and designated friends) can edit an area.
+- Chi: Water
+- Rarity: 999
+- This item never drops any seeds.
+- This item can't be destroyed - smashing iy will return it to your backpack if you have room!
+- This item has special properties you can adjust with the Wrench.
+
+8. Twisted Spikes
+- Description: The evilest kind of spike available. Do not touch!
+- Chi: Fire
+- Rarity: 13
+- Splice: Death Spikes Seed + Evil Bricks Seed
+
+9. Jade Spikes
+- Description: Extra-beautiful means extra-deadly, right? These spikes are hand carved from ancient jade, but they'll destroy you and anything they touch just as quickly as modern spikes! Now that's long-lasting quality. And pain.
+- Chi: Earth
+- Rarity: 20
+- This item can't be spliced.
+
+10. Hanging Guytrap
+- Description: This is also what happens when you give a flower a taste for magic bacon.
+- Chi: Air
+- Rarity: 41
+- Splice: Magic Bacon Wallpaper Seed + Rose Seed
+
+11. Venus Guytrap
+- Description: This is what happens when you give a flower a taste for magic bacon.
+- Chi: Earth
+- Rarity: 41
+- Splice: Magic Bacon Wallpaper Seed + Daisy Seed
+
+12. Great White Shark
+- Description: They say a shark can never stop swimming, but this particular shark can never stop swimming in place.
+- Chi: Water
+- Rarity: 85
+- Splice: Venus Guytrap Seed + White Wallpaper Seed
+- This item can be placed in two directions, depending on the direction you're facing.
