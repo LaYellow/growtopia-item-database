@@ -1,0 +1,32 @@
+1. Fist:
+- Description: Nothing can stand against the power of the FIST.
+- Chi: Earth
+- Rarity: 999
+- This item cannot be dropped or traded.
+
+2. Wrench:
+- Description: The amazing tool that can modify Doors, Signs, Time-Space Ruptures, and more. You can't lose it! Everybody has one of thse, it's not that special even though it looks cool.
+- Chi: Earth
+- Rarity: 999
+- This item cannot be dropped or traded.
+
+3. Door
+- Description: These magical doors connect all the worlds in Growtopia. Place one and then use your Wrench on it to set the destination.
+- Chi: Earth
+- Rarity: 2
+- Splice: Dirt Seed + Cave Background Seed
+- This item has special properties you can adjust with the Wrench.
+
+4. Screen Door
+- Description: Not for use in submarines.
+- Chi: Air
+- Rarity: 17
+- Splice: Lattice Background Seed + Door Seed
+- This item has special properties you can adjust with the Wrench.
+
+5. Blue Portal
+- Description: Step through it. There is cake on the other side.
+- Chi: Water
+- Rarity: 84
+- Splice: Blue Block Seed + High Tech Block Seed
+- This item has special properties you can adjust with the Wrench.
