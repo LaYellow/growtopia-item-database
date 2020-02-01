@@ -124,3 +124,110 @@
 - Rarity: 999
 - This item can't by spliced.
 - This item never drops any seeds.
+
+21. Milk
+- Description: It does a body okay, though there are lower-fat ways to get calcium.
+- Chi: Water
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+
+22. About Shiny Flashy Thing
+- Description: This is bait for fishing. Equip a fishing rod and then use this bait on water that you are standing next to in order to start fishing. The shiny stufff appeals to larger fish than Wiggly Worms do.
+- Chi: Wind
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+
+23. Skyrocket
+- Description: Celebrate the holidays by firing off colorful rockets.
+- Chi: Fire
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+
+24. Spare Body Part
+- Description: Oh, nobody's even goanna notice this is missing, I'm sure. They had at least two of these when they came in.
+- Chi: Water
+- Rarity: 999
+- This item can't be spliced.
+- THis item never drops any seeds.
+
+25. Vaccine Drop
+- A piece of a true medical marvel, and perhaps your only hope of curing the deadliest of diseases! Collect enough of these precious drops and combine them into a final, super-effective form!
+- Chi: Water
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+
+26. Hidden Door
+- Description: Looks like an Art Deco Block, but with extra friendship - you can use this to allow access to others! Just, y'know, keep it secret. Hidden Doors are only cool if they're secret.
+- Chi: Earth
+- Rarity: 15
+- This item can't be spliced.
+- This item can be placed in two directions, depending on the direction you're facing.
+- This item has special properties you can adjust with the Wrench.
+
+27. Porticullis
+- Description: Lock out the ruffians with this medieval gateway.
+- Chi: Eath
+- Rairty: 16
+- Splice: Dungeon Door Seed + Death Spikes Seed
+- This item has special properties you can adjust with the Wrench.
+
+28. Sign
+- Description: Write stuff on it to tell your friends! Use your Wrench on it to chance the message.
+- Chi: Earth
+- Rarity: 2
+- Splice: Cave Background Seed + Rock Seed
+- This item has special properties you can adjust with the Wrench.
+
+29. Arrow Placard
+- Description: This sign includes a bit of added information - an arrow! The arrow points whichever direction you are facing when you place the sign.
+- Chi: Air
+- Rarity: 17
+- Splice: Big Old Sideways Arrow Seed + Pointy Sign Seed
+- This item can be placed in two directions, depending on the direction you're facing.
+- This item has special properties you can adjust with the Wrench.
+
+30. Mailbox
+- Description: You've got mail! People can write you private messages with this.
+- Chi: Air
+- Rarity: 57
+- Splice: Big Old Up Arrow Seed + Steel Block Seed
+- This item can be placed in two directions, depending on the direction you're facing.
+- This item has special properties you can adjust with the Wrench.
+
+31. Guestbook
+- Description: Lets people communicate by leaving messages to each other.
+- Chi: Earth
+- Rarity: 72
+- Splice: Bookcase Seed + Shop Sign Seed
+
+32. Flower Checkpoint
+- Description: If you die, you'll respawn at the last Checkpoint you touched!
+- Chi: Earth
+- Rarity: 49
+- Splice: Checkpoint Seed + Flowery Wallpaper Seed
+- This item can be placed in two directions, depending on the direction you're facing.
+
+33. Sea Lantern
+- Description: Cutting through the murky depths with a fragile glow! This little light of mine, I'm goanna let it shine...
+- Chi: Water
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be placed in two directions, depending on the direction you're facing.
+- This item has special properties you can adjust with the Wrench.
+
+34. Wooden Platform
+- Description: The great thing about these is that you can jump up through them!
+- Chi: Earth
+- Rarity: 4
+- Splice: Wood Block Seed + Grass Seed
+
+35. Ladder
+- Description: This is a specially designated one-way ladder - you can only climb up, not down.
+- Chi: Air
+- Rarity: 26
+- Splice: Big Old Up Arrow Seed + Wooden Platform Seed
