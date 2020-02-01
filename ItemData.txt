@@ -132,7 +132,7 @@
 - This item can't be spliced.
 - This item never drops any seeds.
 
-22. About Shiny Flashy Thing
+22. Shiny Flashy Thing
 - Description: This is bait for fishing. Equip a fishing rod and then use this bait on water that you are standing next to in order to start fishing. The shiny stufff appeals to larger fish than Wiggly Worms do.
 - Chi: Wind
 - Rarity: 999
@@ -294,7 +294,7 @@
 - This item can be placed in two directions, depending on the direction you're facing.
 
 45. Pepper Tree
-- Description: The spiciest of trees. Wellm\, I guess there's also cinnamon. Probably a lot of spices grow on trees, huh? I regret this entire description.
+- Description: The spiciest of trees. Well, I guess there's also cinnamon. Probably a lot of spices grow on trees, huh? I regret this entire description.
 - Chi: Earth
 - Rarity: 47
 - Splice: Palm Tree Seed + Apple Seed
