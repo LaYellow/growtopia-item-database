@@ -5,7 +5,7 @@ All the data is taken from in-game from the items i own, or screenshots of items
 
 * This project is licensed CC-BY-4.0, meaning you **must** provide credits before usage.
 
-Any contributors are listed in the "Contributors" section.
+Any contributors are listed in the [Contributors](https://github.com/MrAugu/growtopia-item-database#contributors) section.
 ## Contribution
 If you have any other item's information, find mistakes in the current data, feel free to screenshot info section in game and open an issue or even a pull request to add that information.
 
