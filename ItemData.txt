@@ -577,3 +577,179 @@
 - Splice: Evil Bricks Seed + Yellow Block Seed
 - This item never drops any seeds.
 - This item can be transmuted.
+
+78. Rock Hammer
+- Description: A precision instrument for chipping fossils out of rocks. If you find a fossil, equip this hammer and start tapping - but do it carefully! If the fossil comes loose and you hit again, you'll break it!
+- Chi: None
+- Rarity: 16
+- Clothing: Arm
+- Splice: Stalagmite Seed + Cave Platform Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+79. Pickaxe
+- Description: Smash through bricks slightly faster!
+- Chi: None
+- Rarity: 17
+- Clothing: Arm
+- Splice: Portcullis Seed + Cave Background Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+80. Rock Chisel
+- Description: So you've extracted a fossil from a rock, but the rock is still in your way. That's where the chisel comes in! It lets you chip away the rock without damaging the fossil.
+- Chi: None
+- Rarity: 21
+- Clothing: Arm
+- Splice: Arrow Placard Seed + Teeny Blocks Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+81. Muscle Suit
+- Description: It's faster than exercise!
+- Chi: None
+- Rarity: 22
+- Clothing: Shirt
+- Splice: Western Banner Seed + Pastel Yellow Flower Block Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+82. Shocking Hair
+- Description: In the mad science business, electrocution is a constant hazard. The mad scientist Don King knows this well.
+- Chi: None
+- Rarity: 36
+- Clothing: Hair
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+83. Sushi Knife
+- Description: This razor-sharp blade has the unique ability to slice fish up into fresh chunks for sushi! Just drop a fish item on a Cutting Board, then attack it with the Sushi Knife!
+- Chi: None
+- Rarity: 39
+- Clothing: Arm
+- Splice: Twisted Spikes Seed + Iron Bars Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+84. Climbing Boots
+- Description: These handy boots allow you to climb Climbing Walls. Just jump and hold the arrow towards the wall!
+- Chi: None
+- Rarity: 41
+- Clothing: Feet
+- Splice: Climbing Wall Seed + Stalactite Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+85. Ninja Mask
+- Description: The essence of the shadows lurks within this mask. Put it on to cloak your entire body.
+- Chi: None
+- Rarity: 44
+- Clothing: Face
+- Splice: The Darkness Seed + Black Block Seed
+- This item never drops any seeds.
+
+86. Air Robinsons
+- Description: Special air pockets and coils in the soles of these shoes make them... cost more. But they do make you run faster!
+- Chi: None
+- Rarity: 47
+- Clothing: Feet
+- Splice: Bubble Wrap Seed + Race End Flag
+- This item never drops any seeds.
+- This item can be transmuted.
+
+87. Sack O' Joy
+- Description: Share your joy! Wearing this makes you scatter your gems around as you move.
+- Chi: None
+- Rarity: 75
+- Clothing: Back
+- Splice: Note Block Seed + Disco Ball Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+88. Fishnet Stockings
+- Description: Do you really have the legs for these?
+- Chi: None
+- Rarity: 79
+- Clothing: Pants
+- Splice: The Darkness Seed + Boombox Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+89. Fedora
+- Description: You look sharp, kid! Sponsored by i20HH.
+- Chi: None
+- Rarity: 83
+- Clothing: Hat
+- Splice: Time-Space Rupture Seed + Black Block Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+90. Action Hero Stubble
+- Description: Nothing says tough like not bothering with basic hygiene.
+- Chi: None
+- Rarity: 84
+- Clothing: Face
+- Splice: Tiger Block Seed + Movie Screen Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+91. Parasol
+- Description: The dainty way to slow your fall! Hold the jump button while falling to keep the parasol open.
+- Chi: None
+- Rarity: 89
+- Clothing: Arm
+- Splice: Clouds Seed + Fire Hydrant Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+92. Fire Hose
+- Description: Where is the other end of this hose plugged in? I don't know, but it has an infinite supply of water! This does no damage to blocks at all, but it puts out fires with great ease!
+- Chi: None
+- Clothing: Arm
+- Splice: Toilet Seed + Lazy Cobra Seed
+- This item never drops any seeds.
+
+93. Black Beret
+- Description: Nobody understands your genius.
+- Chi: None
+- Rarity: 96
+- Clothing: Hat
+- Splice: Jellyfish Seed + The Darkness Seed
+- This item never drops any seeds.
+- This item can be transmuted.
+
+94. Fuel Pack
+- Description: This backpack contains volatile fuels you can use to power a flamethrower!
+- Chi: None
+- Rarity: 116
+- Clothing: Back
+- This item can't be spliced.
+- This item never drops any seeds.
+
+95. Blue Floaty Balloon
+- Description: Hold on tight and hopefully you won't float up into the sky. The balloon might be blue, but you'll never be!
+- Chi: None
+- Rarity: 999
+- Clothing: Arm
+- This item can't be spliced.
+- This item never drops any seeds.
+- This can be trained as an Air Battle Pet.
+
+96. Chicken Plow
+- Description: Ancient magic has unlocked the secrets of advanced chicken farming! Now, for the first time, your chicken will PLANT seeds instead of eating them! (When equipped, will plant whatever seed you have selected as you move!)
+- Chi: None
+- Rarity: 999
+- Clothing: Feet
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+97. Dear John Tractor
+- Description: Too lazy to push buttons to farm? The tractor will do it for you!
+- Chi: None
+- Rarity: 999
+- Clothing: Feet
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
