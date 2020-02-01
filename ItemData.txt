@@ -25,7 +25,7 @@
 - This item has special properties you can adjust with the Wrench.
 
 5. Blue Portal
-- Description: Step through it. There is a cake on the other side.
+- Description: Step through it. There is cake on the other side.
 - Chi: Water
 - Rarity: 84
 - Splice: Blue Block Seed + High Tech Block Seed
@@ -133,7 +133,7 @@
 - This item never drops any seeds.
 
 22. Shiny Flashy Thing
-- Description: This is bait for fishing. Equip a fishing rod and then use this bait on the water that you are standing next to in order to start fishing. The shiny stuff appeals to larger fish than Wiggly Worms do.
+- Description: This is bait for fishing. Equip a fishing rod and then use this bait on water that you are standing next to in order to start fishing. The shiny stuff appeals to larger fish than Wiggly Worms do.
 - Chi: Wind
 - Rarity: 999
 - This item can't be spliced.
@@ -508,7 +508,7 @@
 - This item cannot be dropped or traded.
 
 70. Mac n' Cheese Star
-- Description: Your reward for incredible cooking skills! You can trade them for cooking prizes by calling Sales-Man on your Telephone at 52785. Double-tap this in your inventory to combine 100 of them together.
+- Description: Your reward for incredible cooking skill! You can trade them for cooking prizes by calling Sales-Man on your Telephone at 52785. Double-tap this in your inventory to combine 100 of them together.
 - Chi: Fire
 - Rarity: 999
 - This item can't be spliced.
