@@ -1,11 +1,11 @@
-1. Fist:
+1. Fist
 - Description: Nothing can stand against the power of the FIST.
 - Chi: Earth
 - Rarity: 999
 - This item cannot be dropped or traded.
 
-2. Wrench:
-- Description: The amazing tool that can modify Doors, Signs, Time-Space Ruptures, and more. You can't lose it! Everybody has one of thse, it's not that special even though it looks cool.
+2. Wrench
+- Description: The amazing tool that can modify Doors, Signs, Time-Space Ruptures, and more. You can't lose it! Everybody has one of these, it's not that special even though it looks cool.
 - Chi: Earth
 - Rarity: 999
 - This item cannot be dropped or traded.
@@ -25,7 +25,7 @@
 - This item has special properties you can adjust with the Wrench.
 
 5. Blue Portal
-- Description: Step through it. There is cake on the other side.
+- Description: Step through it. There is a cake on the other side.
 - Chi: Water
 - Rarity: 84
 - Splice: Blue Block Seed + High Tech Block Seed
@@ -36,7 +36,7 @@
 - Chi: Water
 - Rarity: 999
 - This item never drops any seeds.
-- This item can't be destroyed - smashing iy will return it to your backpack if you have room!
+- This item can't be destroyed - smashing it will return it to your backpack if you have room!
 - This item has special properties you can adjust with the Wrench.
 
 7. World Lock
@@ -44,7 +44,7 @@
 - Chi: Water
 - Rarity: 999
 - This item never drops any seeds.
-- This item can't be destroyed - smashing iy will return it to your backpack if you have room!
+- This item can't be destroyed - smashing it will return it to your backpack if you have room!
 - This item has special properties you can adjust with the Wrench.
 
 8. Twisted Spikes
@@ -54,7 +54,7 @@
 - Splice: Death Spikes Seed + Evil Bricks Seed
 
 9. Jade Spikes
-- Description: Extra-beautiful means extra-deadly, right? These spikes are hand carved from ancient jade, but they'll destroy you and anything they touch just as quickly as modern spikes! Now that's long-lasting quality. And pain.
+- Description: Extra-beautiful means extra-deadly, right? These spikes are hand-carved from ancient jade, but they'll destroy you and anything they touch just as quickly as modern spikes! Now that's long-lasting quality. And pain.
 - Chi: Earth
 - Rarity: 20
 - This item can't be spliced.
@@ -99,7 +99,7 @@
 - Splice: Toilet Seed + Aqua Block Seed
 
 16. Berry Crepes
-- Description: It's the really thin pancackes you love so much! Just say it! Food Buff: 30% more XP earned from Surgery.
+- Description: It's the really thin pancakes you love so much! Just say it! Food Buff: 30% more XP earned from Surgery.
 - Chi: Air
 - This item can't be spliced.
 - This item never drops any seeds.
@@ -119,10 +119,10 @@
 - This item never drops any seeds.
 
 20. Med-A-Check
-- Description: Think you might have a malady on your hands? Use the advanced tech of the Med-A-Check to scan you patient! Only has enough power for one complete scan, but will tell you exactly what malady your patient has! Note: Will not be consumed if its target has no malady.
+- Description: Think you might have a malady on your hands? Use the advanced tech of the Med-A-Check to scan your patient! Only has enough power for one complete scan, but will tell you exactly what malady your patient has! Note: Will not be consumed if its target has no malady.
 - Chi: Earth
 - Rarity: 999
-- This item can't by spliced.
+- This item can't be spliced.
 - This item never drops any seeds.
 
 21. Milk
@@ -133,7 +133,7 @@
 - This item never drops any seeds.
 
 22. Shiny Flashy Thing
-- Description: This is bait for fishing. Equip a fishing rod and then use this bait on water that you are standing next to in order to start fishing. The shiny stufff appeals to larger fish than Wiggly Worms do.
+- Description: This is bait for fishing. Equip a fishing rod and then use this bait on the water that you are standing next to in order to start fishing. The shiny stuff appeals to larger fish than Wiggly Worms do.
 - Chi: Wind
 - Rarity: 999
 - This item can't be spliced.
@@ -147,11 +147,11 @@
 - This item never drops any seeds.
 
 24. Spare Body Part
-- Description: Oh, nobody's even goanna notice this is missing, I'm sure. They had at least two of these when they came in.
+- Description: Oh, nobody's even gonna notice this is missing, I'm sure. They had at least two of these when they came in.
 - Chi: Water
 - Rarity: 999
 - This item can't be spliced.
-- THis item never drops any seeds.
+- This item never drops any seeds.
 
 25. Vaccine Drop
 - A piece of a true medical marvel, and perhaps your only hope of curing the deadliest of diseases! Collect enough of these precious drops and combine them into a final, super-effective form!
@@ -168,15 +168,15 @@
 - This item can be placed in two directions, depending on the direction you're facing.
 - This item has special properties you can adjust with the Wrench.
 
-27. Porticullis
+27. Portcullis
 - Description: Lock out the ruffians with this medieval gateway.
-- Chi: Eath
-- Rairty: 16
+- Chi: Earth
+- Rarity: 16
 - Splice: Dungeon Door Seed + Death Spikes Seed
 - This item has special properties you can adjust with the Wrench.
 
 28. Sign
-- Description: Write stuff on it to tell your friends! Use your Wrench on it to chance the message.
+- Description: Write stuff on it to tell your friends! Use your Wrench on it to change the message.
 - Chi: Earth
 - Rarity: 2
 - Splice: Cave Background Seed + Rock Seed
@@ -212,7 +212,7 @@
 - This item can be placed in two directions, depending on the direction you're facing.
 
 33. Sea Lantern
-- Description: Cutting through the murky depths with a fragile glow! This little light of mine, I'm goanna let it shine...
+- Description: Cutting through the murky depths with a fragile glow! This little light of mine, I'm gonna let it shine...
 - Chi: Water
 - Rarity: 999
 - This item can't be spliced.
@@ -251,7 +251,7 @@
 - This item can't be spliced.
 
 39. Rock
-- Description: I don't feel like i should have to explain what a rock is to you.
+- Description: I don't feel like I should have to explain what a rock is to you.
 - Chi: Earth
 - Rarity: 1
 - This item can't be spliced.
@@ -343,7 +343,7 @@
 - This item never drops any seeds.
 
 52. Surgical Anesthetic
-- Description: Used only in surgery. You probably don't want to operate on somebody unless they are unconcious. Use this to knock them out!
+- Description: Used only in surgery. You probably don't want to operate on somebody unless they are unconscious. Use this to knock them out!
 - Chi: Air
 - Rarity: 83
 - Splice: High Tech Wall Seed + Biohazard Sign Seed
@@ -374,7 +374,7 @@
 - This item has no use... by itself.
 - A tree of this type can bear surprising fruit!
 
-56. Surgical Defibrilator
+56. Surgical Defibrillator
 - Description: Used only in surgery. If a patient's heart stops (which can happen when they are anesthetized), zap them with this to fire it up again.
 - Chi: Air
 - Rarity: 83
@@ -391,7 +391,7 @@
 - A tree of this type can bear surprising fruit!
 
 58. Surgical Pins
-- Description: Used only in surgery. When a bone is absolutley shattered, you need to use pins to put it back together. A splint won't do it! Can only be used once you've opened an incision, of course.
+- Description: Used only in surgery. When a bone is absolutely shattered, you need to use pins to put it back together. A splint won't do it! Can only be used once you've opened an incision, of course.
 - Chi: Earth
 - Rarity: 83
 - Splice: High Tech Wall Seed + Biohazard Sign Seed
@@ -431,7 +431,7 @@
 - A tree of this type can bear surprising fruit!
 
 61. Surgical Transfusion
-- Description: Used only in surgery. If a ptient's blood supply gets dangerously low, this will fill 'er up!
+- Description: Used only in surgery. If a patient's blood supply gets dangerously low, this will fill 'er up!
 - Chi: Water
 - Rarity: 83
 - Splice: High Tech Wall Seed + Biohazard Sign Seed
@@ -490,7 +490,7 @@
 - This item cannot be dropped or traded.
 
 68. Legendary Clash Key - Series 2
-- Description: A key to a mysterious trasure! This key is for Clash Series 2, running from Summer Clash 2019 through Spring Clash 2020. After three seasons, those who collect at least 10 of these keys will be able to open a special trasure chest. Make sure you have enough - just one won't do it!
+- Description: A key to a mysterious treasure! This key is for Clash Series 2, running from Summer Clash 2019 through Spring Clash 2020. After three seasons, those who collect at least 10 of these keys will be able to open a special treasure chest. Make sure you have enough - just one won't do it!
 - Chi: Earth
 - Rarity: 999
 - This item can't be spliced.
@@ -508,7 +508,7 @@
 - This item cannot be dropped or traded.
 
 70. Mac n' Cheese Star
-- Description: Your reward for incredible cooking skill! You can trade them for cooking prizes by calling Sales-Man on your Telephone at 52785. Double-tap this in your inventory to combine 100 of them together.
+- Description: Your reward for incredible cooking skills! You can trade them for cooking prizes by calling Sales-Man on your Telephone at 52785. Double-tap this in your inventory to combine 100 of them together.
 - Chi: Fire
 - Rarity: 999
 - This item can't be spliced.
@@ -517,7 +517,7 @@
 - This item cannot be dropped or traded.
 
 71. Soul Stone
-- Description: Unearthly life pulses within this strange stone! You think it might be a link to a great beyond... but what prupose could such ancient power have in the worlds of living?
+- Description: Unearthly life pulses within this strange stone! You think it might be a link to a great beyond... but what purpose could such ancient power have in the worlds of living?
 - Chi: Air
 - Rarity: 999
 - This item can't be spliced.
@@ -532,20 +532,20 @@
 - This item can't be spliced.
 - This item never drops any seeds.
 - This item can only be used in World-Locked worlds.
-- This item can't be destroted - smashing it will return it to your backpack if you have room!
+- This item can't be destroyed - smashing it will return it to your backpack if you have room!
 - This item has special properties you can adjust with the Wrench.
 
 73. Gravity Well
-- Description: When GrowTech accidentally spawned a swarn of miniature black holes, shareholders were worries the damage to spacetime might hurt business. Fortunately,their engeneers were able to harness the power of the singularity to create these irresistible block! Punch it to turn it on and feel the pull of the void!
+- Description: When GrowTech accidentally spawned a swarm of miniature black holes, shareholders were worries the damage to spacetime might hurt business. Fortunately,their engineers were able to harness the power of the singularity to create these irresistible blocks! Punch it to turn it on and feel the pull of the void!
 - Chi: Air
 - Rarity: 999
 - This item can't be spliced.
 - This item never drops any seeds.
-- This item can't be destroted - smashing it will return it to your backpack if you have room!
+- This item can't be destroyed - smashing it will return it to your backpack if you have room!
 - This item has special properties you can adjust with the Wrench.
 
 74. Rave Haze Light
-- Description: Superb raves need superb lights, and these will have everyone proclaiming your scene hardcord to the max! Just... don't tell anyone these are old repurposes Christmas lights. That might be awkward.
+- Description: Superb raves need superb lights, and these will have everyone proclaiming your scene hardcore to the max! Just... don't tell anyone these are old repurposes Christmas lights. That might be awkward.
 - Chi: Fire
 - Rarity: 999
 - This item can't be spliced.
