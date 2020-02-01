@@ -154,7 +154,7 @@
 - This item never drops any seeds.
 
 25. Vaccine Drop
-- A piece of a true medical marvel, and perhaps your only hope of curing the deadliest of diseases! Collect enough of these precious drops and combine them into a final, super-effective form!
+- Description: A piece of a true medical marvel, and perhaps your only hope of curing the deadliest of diseases! Collect enough of these precious drops and combine them into a final, super-effective form!
 - Chi: Water
 - Rarity: 999
 - This item can't be spliced.
@@ -1040,3 +1040,91 @@
 - This item never drops any seeds.
 - This item cannot be dropped or traded.
 - THis item can be transmuted.
+
+130. Earth Essence
+- Description: Titantic forces of dirt and stone have ground together to forge this pure piece of earth. Also makes for a nice paperweight.
+- Chi: Earth
+- Rarity: 999
+- This item can't be spliced.
+- This item has no use... by itself.
+- This item never drops any seeds.
+
+131. Surgical Tool Bag
+- Description: A bag of medical goodness! This bottomless sack somehow produces surgery tools, even if it's empty! We assume someone fills it when you're not watching, but who? And why?! It's on a timed lock, so it can only be opened once every five days.
+- Chi: Wind
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can't be destroyed - smashing it will return it to your backpack if you have room!
+- This item can be placed in two directions, depending on the direction you're facing.
+
+132. Cave Platform
+- Description: Handy rock platforms. These connect seamlessly to Cave Dirt and can sit atop Cave Columns as well.
+- Chi: Earth
+- Rarity: 7
+- Splice: Cave Column Seed + Rock Platform Seed
+
+133. Mud Glob
+- Description: Splat somebody with this to slow them down!
+- Chi: Earth
+- Rarity: 4
+- Splice: Dirt Seed + Daisy Seed
+
+134. Bountiful Monkshood
+- Description: Also known as wolfsbane (which sound waaaay cooler, come to think), these bright purple flowers look great, but they're quite poisonous, so don't start snacking!
+- Chi: Earth
+- Rarity: 30
+- This item can't be spliced.
+
+135. Heart Monitor
+- Description: Place this device and anybody can watch it to see if you are online! Or alive. Note: it can't actually tell if you're alive. But it will beep if you are online!
+- Chi: Water
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can't be destroyed - smashing it will return it to your backpack if you have room!
+- This item can be placed in two directions, depending on the direction you're facing.
+
+136. Signal Jammer
+- Description: When activated (punch to activate), this prevents your world from being listed on the World Select screen.
+- Chi: Wind
+- Rarity: 999
+- This item can't be spliced.
+- This item can't be destroyed - smashing it will return it to your backpack if you have room!
+- This item has special properties you can adjust with the Wrench.
+
+137. World Architect
+- Description: Need help planning your next great creation? The World Architect will project a numbered grid over your entire world, scaling as you zoom in and out to let you pinpoint blocks and locations for tweaking!
+- Chi: Water
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can only be used in World-Locked worlds.
+- This item can't be destroyed - smashing it will return it to your backpack if you have room!
+- This item can be placed in two directions, depending on the direction you're facing.
+
+138. Coin: 7th Anniversary Block
+- Description: SEVEN YEARS! They just keep coming! Copper is the traditional gift associated with 7th anniversaries, so as a thank you for your continued support, please join us in celebrating this monumental achievement with this beautiful coppery block!
+- Chi: Wind
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item has special properties you can adjust with the Wrench.
+
+139. Vending Machine
+- Description: Shopping without the hassle of human beings! Use your wrench on this item to stock it with an item and set a price in World Locks. Other players will be able to buy from it! Only works in World-Locked worlds.
+- Chi: Wind
+- Rarity: 999
+- This item can't be spliced.
+- This item can only be used in World-Locked worlds.
+- This item can't be destroyed - smashing it will return it to your backpack if you have room!
+
+140. Creepy Baby Head Mask
+- Description: 
+Tired of people treating you like a little kid? Toss this bad boy on and send THEM crying home to momma!
+- Chi: None
+- Rarity: 73
+- Clothing: Face
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmutated.
