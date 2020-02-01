@@ -389,3 +389,163 @@
 - Splice: High Tech Wall Seed + Biohazard Sign Seed
 - This item has no use... by itself.
 - A tree of this type can bear surprising fruit!
+
+58. Surgical Pins
+- Description: Used only in surgery. When a bone is absolutley shattered, you need to use pins to put it back together. A splint won't do it! Can only be used once you've opened an incision, of course.
+- Chi: Earth
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+58. Surgical Scalpel
+- Description: Used only in surgery. Use this to cut people open!
+- Chi: Fire
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+59. Surgical Splint
+- Description: Used only in surgery. If somebody has a broken bone, you better splint it up or it'll heal all crooked.
+- Chi: Earth
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+59. Surgical Sponge
+- Description: Used only in surgery. If you make a mess, a sponge can suck it up easily.
+- Chi: Water
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+60. Surgical Stitches
+- Description: Used only in surgery. Bandages are included toom for lesser injuries. Use these to close up after performing surgery, or repair existing cuts and bleeding.
+- Chi: Air
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+61. Surgical Transfusion
+- Description: Used only in surgery. If a ptient's blood supply gets dangerously low, this will fill 'er up!
+- Chi: Water
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+62. Surgical Ultrasound
+- Description: Used only in surgery. This detailed scan can inform you of any broken bones, tumors, or other physical issues within the patient's body. Use this right away to diagnose the problem!
+- Chi: Air
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+63. Caduceus
+- Description: This symbol is your rewarding for saving someone with surgery. You can trade them for rare surgical prizes by calling Sales-Man on your Telephone at 53785. Double-tap this in your inventory to combine 100 of them into a Golden Caduceus.
+- Chi: Water
+- Rarity: 999
+- This item can't be spliced.
+- This item has no use... by itself.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+
+64. Flour
+- Description: We've ground it up, and bleached out all the nutrients! It's not really edible anymore, but it's a key ingredient in deliciousness.
+- Chi: Earth
+- Rarity: 999
+- This item can't be spliced.
+- This item has no use... by itself.
+
+65. Gar
+- Description: This is a 1lb. Gar. That doesn't even sound like a real word.
+- Chi: Water
+- Rarity: 999
+- This item can't be spliced.
+- This is a fish. It can only be placed in a Fish Tank.
+- You can't divide fish into pieces.
+- This item never drops any seeds.
+
+66. Golden Caduceus
+- Description: This is worth 100 Caducei (that's the plural of Caduceus, I looked it up!). Double-tap this in your inventory to break one back down into 100 Caducei. You can trade these for rare surgical prizes by calling Sales-Man on your Telephone at 73785.
+- Chi: Water
+- Rarity: 999
+- This item can't be spliced.
+- This item has no use... by itself.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+
+67. Growtoken
+- Description: You can earn these from Crazy Jim and Sales-Man - try dialing 12345 or 53785 on your Telephone for details! Spend them in store on special items! If you have 100 Growtokens, you can tap them in your inventory to combine them into a Mega Growtoken!
+- Chi: Air
+- Rarity: 999
+- This item can't be spliced.
+- This item has no use... by itself.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+
+68. Legendary Clash Key - Series 2
+- Description: A key to a mysterious trasure! This key is for Clash Series 2, running from Summer Clash 2019 through Spring Clash 2020. After three seasons, those who collect at least 10 of these keys will be able to open a special trasure chest. Make sure you have enough - just one won't do it!
+- Chi: Earth
+- Rarity: 999
+- This item can't be spliced.
+- This item has no use... by itself.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+
+69. Legendary Orb
+- Description: This orb is legendary and filled with a great power. However, you don't have an adapter for it, so the power isn't any use to you. Perhaps a wizard could use it?
+- Chi: Fire
+- Rarity: 999
+- This item can't be spliced.
+- This item has no use... by itself.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+
+70. Mac n' Cheese Star
+- Description: Your reward for incredible cooking skill! You can trade them for cooking prizes by calling Sales-Man on your Telephone at 52785. Double-tap this in your inventory to combine 100 of them together.
+- Chi: Fire
+- Rarity: 999
+- This item can't be spliced.
+- This item has no use... by itself.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+
+71. Soul Stone
+- Description: Unearthly life pulses within this strange stone! You think it might be a link to a great beyond... but what prupose could such ancient power have in the worlds of living?
+- Chi: Air
+- Rarity: 999
+- This item can't be spliced.
+- This item has no use... by itself.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+
+72. SearBot - Level 2
+- Description: GrowTech's engineers were trying to invent a way to make multiple grilled cheese sandwiches at the same time, but ended up creating this terrifying CyBot of burning pain! Funny how often that happens. Can take up to 10 CyBot commands.
+- Chi: Earth
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can only be used in World-Locked worlds.
+- This item can't be destroted - smashing it will return it to your backpack if you have room!
+- This item has special properties you can adjust with the Wrench.
+
+73. Gravity Well
+- Description: When GrowTech accidentally spawned a swarn of miniature black holes, shareholders were worries the damage to spacetime might hurt business. Fortunately,their engeneers were able to harness the power of the singularity to create these irresistible block! Punch it to turn it on and feel the pull of the void!
+- Chi: Air
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can't be destroted - smashing it will return it to your backpack if you have room!
+- This item has special properties you can adjust with the Wrench.
+
+74. Rave Haze Light
+- Description: Superb raves need superb lights, and these will have everyone proclaiming your scene hardcord to the max! Just... don't tell anyone these are old repurposes Christmas lights. That might be awkward.
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item has special properties you can adjust with the Wrench.
