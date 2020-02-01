@@ -753,3 +753,41 @@
 - This item can't be spliced.
 - This item never drops any seeds.
 - This item can be transmuted.
+
+98. Doompunk Leggings
+- Description: Works equally well for a doompunk or a pirate! Or maybe a serial killer from the 80's
+- Chi: None
+- Rarity: 999
+- Clothing: Pants
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+99. Doompunk Waistcoat
+- Description: The perfect garment for housing a pocketwatch, monocle, and perhaps poison needles. Definitely some evil stuff in those pockets.
+- Chi: None
+- Rarity: 999
+- Clothing: Shirt
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+100. EMT Jumpsuit
+- Description: Show off your surgery skills and dress for the next big emergency with this hypoallergenic coverall!
+- Chi: None
+- Rarity: 999
+- Clothing: Shirt
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+- This item can be transmuted.
+ 
+101. Fishing Wader Boots
+- Description: Show off your fishing finesse and keep your toes nice and dry with these water-proof waders!
+- Chi: None
+- Rarity: 999
+- Clothing: Feet
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+- This item can be transmuted.
