@@ -77,3 +77,50 @@
 - Rarity: 85
 - Splice: Venus Guytrap Seed + White Wallpaper Seed
 - This item can be placed in two directions, depending on the direction you're facing.
+
+13. Deathtrap Wall
+- Description: Ready to pulverize unsuspecting parkourists! Don't linger too long near these, or you'll be the subject of a very... pointed exchange.
+- Chi: Earth
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can't be destroyed - smashing it will return it to your backpack if you have room!
+
+14. Blueberry
+- Description: Careful with these, they'll stain! Throw it at a player to turn him blue for an hour.
+- Chi: Water
+- Rarity: 12
+- Splice: Bush Seed + Mushroom Seed
+
+15. Water Bucket
+- Description: Splash it around to make things wet. It can also scoop up water, though there's a good chance you'll just spill it. Butterfingers.
+- Chi: Water
+- Rarity: 13
+- Splice: Toilet Seed + Aqua Block Seed
+
+16. Berry Crepes
+- Description: It's the really thin pancackes you love so much! Just say it! Food Buff: 30% more XP earned from Surgery.
+- Chi: Air
+- This item can't be spliced.
+- This item never drops any seeds.
+
+17. Disgusting Mess
+- Description: The abomination is what happens when you let video gamers cook. Do NOT eat.
+- Chi: Water
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+
+18. Egg
+- Description: Toss these all over, if you want to be a horrible vandal.
+- Chi: Earth
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+
+20. Med-A-Check
+- Description: Think you might have a malady on your hands? Use the advanced tech of the Med-A-Check to scan you patient! Only has enough power for one complete scan, but will tell you exactly what malady your patient has! Note: Will not be consumed if its target has no malady.
+- Chi: Earth
+- Rarity: 999
+- This item can't by spliced.
+- This item never drops any seeds.
