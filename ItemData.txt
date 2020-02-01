@@ -791,3 +791,252 @@
 - This item never drops any seeds.
 - This item cannot be dropped or traded.
 - This item can be transmuted.
+
+102. Growtopia Fan Shirt
+- Description: This amazing psychic shirt can actually display your thoughts with spectacular new morphing ink technology. Note: yeah, it just says the one thing, but you know you're thinking it.
+- Chi: None
+- Rarity: 999
+- Clothing: Shirt
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+103. Guild Steed
+- Description: A trusty steed for a trusted guildmate! Collect one for all your allies and have a parade! Or keep them all to yourself and taunt your friends. Either way, this horse is just happy to help.
+- Chi: None
+- Rarity: 999
+- Clothing: Feet
+- This item can't be spliced.
+- This item never drops any seeds.
+
+104. Heartbreaker Hammer
+- Description: Seriously, if this hits your chest, your heart will break. Also, it's good for smashing pumpkins.
+- Chi: None
+- Rarity: 999
+- Clothing: Arm
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+105. Licorice Rod
+- Description: Equip this and then use bait on water next to you to go fishing! All you have to do is wait for a bite, and then punch the fish before it escapes! If you miss, your bait is wasted, so punch fast. This delicious fishing rod gets bites twice as often as other rods.
+- Chi: None
+- Rarity: 999
+- Clothing: Arm
+- This item can't be spliced.
+- This item never drops any seeds.
+
+106. Malevolent Hair
+- Description: What are you up to under that mop-top? Seems like something a little sneaky...
+- Chi: None
+- Rarity: 999
+- Clothing: Hair
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+107. Mini-You
+- Description: This Mini Growtopian looks strangely familiar...
+- Chi: None
+- Rarity: 999
+- Clothing: Arm
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+- This item can be transmuted.
+ 
+108. Munchin' Straw
+- Description: Show off your farmer flair and enjoy a long-lasting snack with this tasty wheat!
+- Chi: None
+- Rarity: 999
+- Clothing: Face
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+109. Party Fowl
+- Description: Whoa dude, major party fowl. You earned this for playing Growtopia for THREE YEARS, and over 100 hours, and reaching level 50! Wow, that's dedication.
+- Chi: None
+- Rarity: 999
+- Clothing: Arm
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+- This item can be transmuted.
+- This can be trained as a Fire Battle Pet.
+
+110. Party Glasses
+- Description: PARTY DOWN!!!!
+- Chi: None
+- Rarity: 999
+- Clothing: Face
+- This item can't be spliced.
+- This item never drops any seeds.
+
+111. Party Socks
+- Description: PARTY DOWN!!!!
+- Chi: None
+- Rarity: 999
+- Clothing: Feet
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+112. Party Style Scarf
+- Description: Wow, look at those colors! Ring your neck with the perfect party scarf.
+- Chi: None
+- Rarity: 999
+- Clothing: Neck
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+113. Party Style Shades
+- Description: Hypnotize your fellow Growtopians as they stare longingly into these dazzling shades!
+- Chi: None
+- Rarity: 999
+- Clothing: Face
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+114. Party Style Top Hat
+- Description: This isn't just a great party hat - it's the GREATEST party hat. Top the evening (and your noggin) with this finely-honed piece of wearable art!
+- Chi: None
+- Rarity: 999
+- Clothing: Hat
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+115. Party Vest
+- Description: PARTY DOWN!!!!
+- Chi: None
+- Rarity: 999
+- Clothing: Shirt
+- This item can't be spliced.
+- This item never drops any seeds.
+
+116. Pilgrim's Shoes
+- Description: There are all kinds of things to be thankful for during the holidays, but maybe one of the most important is just how dang awesome those pilgrims looked! Complete your ensemble with these traditional shoes and join the fun!
+- Chi: None
+- Rarity: 999
+- Clothing: Feet
+- This item can't be spliced.
+- This item never drops any seeds.
+
+117. Present Goblin Home Edition
+- Description: Dress up as a Present Goblin for fun! You won't automatically drop presents, but it's festive year-round! This costume overrides all other clothing, but if you don't like tossing tennis balls, try equipping other sportsballs with it!
+- Chi: None
+- Rarity: 999
+- Clothing: Face
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+
+118. Purple Aura
+- Description: You are burning with magical, octarine energies!
+- Chi: None
+- Rarity: 999
+- Clothing: Back
+- This item can't be spliced.
+- This item never drops any seeds.
+
+119. Raver Hoodie
+- Description: Express your taste for neon-drenched fun with this psychedelically-colorful raver hoodie.
+- Chi: None
+- Rarity: 999
+- Clothing: Shirt
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+120. Raver Pants
+- Description: Dang! Those are some bright n' colorful pants, sure to help you stand out in any scene! (Well, aside from the raver scene - you'll blend right in with them!)
+- Chi: None
+- Rarity: 999
+- Clothing: Pants
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+121. Ring of Wisdom
+- Description: This ring makes you feel a whole lot smarter. So smart, in fact, that you can tell that it gives you a 10% chance of getting double XP!
+- Chi: None
+- Rarity: 999
+- Clothing: Arm
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+
+122. Ruby Necklace
+- Description: It's a red rock on a metal string. But I guess people like that!
+- Chi: None
+- Rarity: 999
+- Clothing: Neck
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+123. Scrub Cap
+- Description: Keep your hair out of your eyes while performing surgery with this sterile cap.
+- Chi: None
+- Rarity: 999
+- Clothing: Hat
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+124. Scrub Mask
+- Description: Stop spreading your germs around!
+- Chi: None
+- Rarity: 999
+- Clothing: Face
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+125. Scrub Pants
+- Description: Even your knees need to be kept sterile when you are operating.
+- Chi: None
+- Rarity: 999
+- Clothing: Pants
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+126. Scrub Tp
+- Description: Special sterilized clothes, for chopping folks up!
+- Chi: None
+- Rarity: 999
+- Clothing: Shirt
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+127. Startopian Empire - Uniform Pants
+- Description: Are you ready to travel the stars? To explore strange new worlds and fight for the glory of Startopia? Then you'll need to look the part! These pants are vacuum-pressed and ready for space - get the rest of your uniform together and enlist today!
+- Chi: None
+- Rarity: 999
+- Clothing: Pants
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be transmuted.
+
+128. T-Shirt Cannon
+- Description: Powered by a Fuel Pack on your back, this gun can launch free T-shirts at your fellow Growtopians! Don't waste shots at anything else, it still burns fuel!
+- Chi: None
+- Rarity: 999
+- Clothing: Arm
+- This item can't be spliced.
+- This item never drops any seeds.
+
+129. Yellow Hardhat
+- Description: Show off your builder bona fides and keep your noggin safe with this bright and beautiful hat!
+- Chi: None
+- Rarity: 999
+- Clothing: Hat
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item cannot be dropped or traded.
+- THis item can be transmuted.
