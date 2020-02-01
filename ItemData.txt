@@ -231,3 +231,161 @@
 - Chi: Air
 - Rarity: 26
 - Splice: Big Old Up Arrow Seed + Wooden Platform Seed
+
+36. Climbing Vine
+- Description: These vines can grow to extraordinary heights. Provided you place Climbing Vine blocks up to extraordinary heights.
+- Chi: Air
+- Rarity: 30
+- Splice: Foliage Seed + Staircase Seed
+
+37. Cave Dirt
+- Description: Yep, it's dirt. In a cave.
+- Chi: Earth
+- Rarity: 1
+- This item can't be spliced.
+
+38. Deep Sand
+- Description: This sand is all mucked up with gross deep ocean stuff.
+- Chi: Earth
+- Rarity: 1
+- This item can't be spliced.
+
+39. Rock
+- Description: I don't feel like i should have to explain what a rock is to you.
+- Chi: Earth
+- Rarity: 1
+- This item can't be spliced.
+
+40. Aqua Block
+- Description: Blocks are available in a stunning array of colors!
+- Chi: Water
+- Rarity: 5
+- Splice: Brick Seed + Glass Pane Seed
+
+40. Dark Aqua Block
+- Description: Blocks are available in a stunning array of colors!
+- Chi: Water
+- Rarity: 12
+- Splice: Aqua Block Seed + Grimstone Seed
+
+41. Dark Green Block
+- Description: Blocks are available in a stunning array of colors!
+- Chi: Water
+- Rarity: 12
+- Splice: Green Block Seed + Grimstone Seed
+
+42. Jade Block
+- Description: This is a finely carved block of jade. How much more elegant could you get?
+- Chi: Water
+- Rarity: 24
+- Splice: Dark Aqua Block Seed + Dark Green Block Seed
+
+43. Fishbowl
+- Description: If there's a fish in there, he's hiding in the castle.
+- Chi: Water
+- Rarity: 40
+- Splice: Ice Seed + Wooden Window Seed
+
+44. Bountiful Corpse Flower
+- Description: It's actually a very pretty flower, despite the name - it just smells bad. Like, REALLY bad.
+- Chi: Earth 
+- Rarity: 42
+- This item can't be spliced.
+- This item can be placed in two directions, depending on the direction you're facing.
+
+45. Pepper Tree
+- Description: The spiciest of trees. Wellm\, I guess there's also cinnamon. Probably a lot of spices grow on trees, huh? I regret this entire description.
+- Chi: Earth
+- Rarity: 47
+- Splice: Palm Tree Seed + Apple Seed
+- This item can be placed in two directions, depending on the direction you're facing.
+
+46. Fishing Stool
+- Description: The fish might be nibbling, but your fogs are barking! Take a load off while you reel in the next big catch!
+- Chi: Water
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+- This item can be placed in two directions, depending on the direction you're facing.
+
+47. Party Block
+- Description: You can't have a block party without a Party Block!
+- Chi: Fire
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+
+48. Cave Background
+- Description: Technically, this is also Dirt but it's just dirt that's farther away.
+- Chi: Earth
+- Rarity: 1
+- This item can't be spliced.
+
+49.  Window
+- Description: A piece of glass with a frame.
+- Chi: Air
+- Rarity: 6
+- Splice: Glass Pane Seed + Wooden Background Seed
+
+50. Hospital Window
+- Description: Looking at nature is supposed to help you recover.
+- Chi: Air
+- Rarity: 999
+- This item can't be spliced.
+- This item never drops any seeds.
+
+51. Chemical G
+- Description: This is a highly toxic chemical. Do not ingest! Place carefully in a Laboratory to combine with other chemicals and create amazing new things.
+- Chi: Water
+- Rarity: 1
+- This item can't be spliced.
+- This item has no use... by itself.
+- This item never drops any seeds.
+
+52. Surgical Anesthetic
+- Description: Used only in surgery. You probably don't want to operate on somebody unless they are unconcious. Use this to knock them out!
+- Chi: Air
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+53. Surgical Antibiotics
+- Description: Used only in surgery. If someone gets an infection, antibiotics should clear it up.
+- Chi: Water
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+54. Surgical Antiseptic
+- Description: Used only in surgery. Don't mix this up with Anesthetic! This is used for cleaning an area before you cut it open.
+- Chi: Water
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+55. Surgical Clamp
+- Description: Used only in surgery. This can reduce a patient's bleeding significantly, but without closing up their incisions, like Surgical Stitches will do. You can only use this when you have open incisions.
+- Chi: Fire
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+56. Surgical Defibrilator
+- Description: Used only in surgery. If a patient's heart stops (which can happen when they are anesthetized), zap them with this to fire it up again.
+- Chi: Air
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
+
+57. Surgical Lab Kit
+- Description: Used only in surgery. This kit will identify different microbes that could be present in patient. Use it right away to diagnose any bacterial or viral issues. You cannot use Surgical Antibiotics until you've used a Lab Kit to identify which bacteria you're fighting.
+- Chi: Water
+- Rarity: 83
+- Splice: High Tech Wall Seed + Biohazard Sign Seed
+- This item has no use... by itself.
+- A tree of this type can bear surprising fruit!
