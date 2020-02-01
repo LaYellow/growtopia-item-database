@@ -546,6 +546,34 @@
 
 74. Rave Haze Light
 - Description: Superb raves need superb lights, and these will have everyone proclaiming your scene hardcord to the max! Just... don't tell anyone these are old repurposes Christmas lights. That might be awkward.
+- Chi: Fire
+- Rarity: 999
 - This item can't be spliced.
 - This item never drops any seeds.
 - This item has special properties you can adjust with the Wrench.
+
+75. Cyclopean Visor
+- Description: With this visor on, you can zap things instead of punching. It does slightly less damage, but has longer range.
+- Chi: None
+- Rarity: 10
+- Splice: Window Seed + Red Block Seed
+- Clothing: Face
+- This item never drops any seeds.
+- This item can be transmuted.
+
+76. Flashlight
+- Description: It takes D batteries, and nobody ever has any D batteries! (Note: no actual batteries required.)
+- Chi: None
+- Rarity: 10
+- Splice: Black Block Seed + Yellow Block Seed
+- Clothing: Arm
+- This item never drops any seeds.
+- This item can be transmuted.
+
+77. Asbestos Boots
+- Description: Protects you from lava, reducing damage by 50%.
+- Chi: None
+- Rarity: 11
+- Splice: Evil Bricks Seed + Yellow Block Seed
+- This item never drops any seeds.
+- This item can be transmuted.
